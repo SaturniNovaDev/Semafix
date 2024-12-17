@@ -8,7 +8,7 @@ recognition libraries available on GitHub.
 
 ### What purpose does it serve?
 
-Semafix was made by @PeterSaturniVega to help drivers save time and patience when
+Semafix was made by [Peter Vega](https://github.com/SaturniNovaDev) to help drivers save time and patience when
 dealing with empty lanes on intersections, instead of having to wait decent amounts
 of time when a lane is empty, or when a lane has too many vehicles.
 
@@ -28,6 +28,6 @@ And the process repeats itself if the conditions still apply.
 
 ### Who works on the project?
 
-Currently, only @SaturniNovaDev and @Migueldev67 are actively working on the
+Currently, only [@SaturniNovaDev](https://github.com/SaturniNovaDev) and [@Migueldev67](https://github.com/Migueldev67) are actively working on the
 project, but we accept new collaborators, pull requests (that make sense), and
 suggestions that could potentially make the code better.
