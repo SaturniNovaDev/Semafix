@@ -28,6 +28,6 @@ And the process repeats itself if the conditions still apply.
 
 ### Who works on the project?
 
-Currently, only [@SaturniNovaDev](https://github.com/SaturniNovaDev) and [@Migueldev67](https://github.com/Migueldev67) are actively working on the
+Currently, only [@SaturniNovaDev](https://github.com/SaturniNovaDev) is actively working on the
 project, but we accept new collaborators, pull requests (that make sense), and
 suggestions that could potentially make the code better.
